@@ -5,8 +5,9 @@ Credit risk adalah resiko yang harus ditanggung oleh seorang individu atau lemba
 
 Resiko ini berupa tidak bisa dibayarkannya pokok dan bunga pinjaman, sehingga mengakibatkan kerugian berikut:
 
-gangguan aliran kas (cash flow) sehingga modal kerja terganggu.
-meningkatkan biaya operasional untuk mengejar pembayaran tersebut (collection).
+- gangguan aliran kas (cash flow) sehingga modal kerja terganggu.
+- meningkatkan biaya operasional untuk mengejar pembayaran tersebut (collection).
+
 Untuk memperkecil resiko kredit ini, biasanya dilakukan proses yang disebut dengan credit scoring dan credit rating terhadap pihak peminjam. Output proses ini akan menjadi basis untuk menentukan apakah aplikasi pengajuan pinjaman baru diterima atau ditolak.
 
 ### Credit Score
